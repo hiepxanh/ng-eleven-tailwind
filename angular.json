@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "ng-eleven"
+  "defaultProject": "ng-eleven",
+  "cli": {
+    "analytics": false
+  }
 }
